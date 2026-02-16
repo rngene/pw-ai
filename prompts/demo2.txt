@@ -1,0 +1,13 @@
+Now continue the flow:
+1. From the cart, click "Proceed to Checkout"
+2. Fill in the checkout form with this test data:
+   - First Name: Jane
+   - Last Name: Doe
+   - Email: jane.doe@test.com
+   - Address: 123 Test Street
+   - City: Testville
+   - ZIP: 12345
+3. Click "Place Order"
+4. Verify the order confirmation appears
+
+Then generate a Playwright E2E test for the complete checkout flow and save it as tests/checkout.spec.ts
