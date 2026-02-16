@@ -22,3 +22,12 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Test results and reports
+/test-results/
+/playwright-report/
+
+# Cached browsers and authentication state
+/playwright/.cache/
+/.local-browsers/
+playwright/.auth/
