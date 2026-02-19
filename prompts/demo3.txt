@@ -1,0 +1,17 @@
+Use playwright skills to naivgate to http://localhost:5174/ 
+
+Explore the demo store app:
+1. Search for "Headphones" using the search bar
+2. Add "Wireless Headphones" to the cart
+3. Add "Coffee Maker" to the cart
+4. Click the Cart button to view the cart
+5. Increase the quantity of Wireless Headphones to 2
+6. Verify the cart total updates correctlyhttp://localhost:5174/ in headed mode.
+
+Explore the demo store app:
+1. Search for "Headphones" using the search bar
+2. Add "Wireless Headphones" to the cart
+3. Add "Coffee Maker" to the cart
+4. Click the Cart button to view the cart
+5. Increase the quantity of Wireless Headphones to 2
+6. Verify the cart total updates correctly
