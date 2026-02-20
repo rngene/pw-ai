@@ -1,4 +1,4 @@
-Use playwright skills to naivgate to http://localhost:5174/ 
+Use playwright skills to navigate to http://localhost:5174/ 
 
 Explore the demo store app:
 1. Search for "Headphones" using the search bar
