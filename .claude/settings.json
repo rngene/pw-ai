@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Skill(playwright-cli)",
-      "Skill(playwright-cli:*)"
+      "Skill(playwright-cli:*)",
+      "Bash(playwright-cli close:*)"
     ]
   }
 }
