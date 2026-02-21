@@ -1,4 +1,4 @@
-Using Playwright MCP, open the browser to http://localhost:5174/ in headed mode.
+Use Playwright MCP, do not use Playwright-cli, open the browser to http://localhost:5174/ in headed mode.
 
 Explore the demo store app:
 1. Search for "Headphones" using the search bar
