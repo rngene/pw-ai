@@ -4,7 +4,8 @@
       "Skill(playwright-cli)",
       "Skill(playwright-cli:*)",
       "Bash(playwright-cli close:*)",
-      "Bash(pkill:*)"
+      "Bash(pkill:*)",
+      "Bash(test:*)"
     ],
     "additionalDirectories": [
       "/Users/gene/Library/Caches/ms-playwright/mcp-chrome-4ec89d4"
